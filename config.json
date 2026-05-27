@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "productualidate",
+        "uuid": 22665804,
+        "checksum": "igibd5"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "production"
+    }
+}
